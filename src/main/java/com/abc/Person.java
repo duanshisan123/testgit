@@ -6,4 +6,6 @@ package com.abc;
  * @date 2020/10/26 17:43
  */
 public class Person {
+    private String name;
+    private String age;
 }
